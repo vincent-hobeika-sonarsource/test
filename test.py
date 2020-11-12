@@ -5,4 +5,5 @@ d = "d"
 e = 0
 f = 1
 g = 2
+h = 3
 print(a + b)
